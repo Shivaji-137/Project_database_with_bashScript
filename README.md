@@ -1,6 +1,6 @@
 # Relational Database Project - Provided by freeCodeCamp  
 
-This project is part of the learning path provided by **freeCodeCamp** to help you master relational databases. The project will guide you through the following steps using **VS Code**, **PostgreSQL**, the **Linux/Unix command line**, and **Git**:
+This project is part of my learning path provided by **freeCodeCamp** to help master relational databases. The project will guide through the following steps using **VS Code**, **PostgreSQL**, the **Linux/Unix command line**, and **Git**:
 
 1. **Bash Commands & Scripting**  
    - Learn to navigate and manipulate the file system using basic Bash commands.  
