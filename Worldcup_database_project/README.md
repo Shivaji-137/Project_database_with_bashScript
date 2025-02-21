@@ -1,5 +1,4 @@
 # World Cup Database Project  
-I have written a required code by myself for earning a certification.
 
 This project is part of the required coursework for earning a certification. It involves creating a **Bash script** that:  
 
