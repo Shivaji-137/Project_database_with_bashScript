@@ -1,5 +1,7 @@
 #! /bin/bash
 
+# written by "Shivaji Chaulagain"
+
 if [[ $1 == "test" ]]
 then
   PSQL="psql --username=postgres --dbname=worldcuptest -t --no-align -c"

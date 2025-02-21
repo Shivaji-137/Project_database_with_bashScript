@@ -1,4 +1,7 @@
 #!/bin/bash
+
+# written by "Shivaji Chaulagain"
+
 PSQL="psql --username=freecodecamp --dbname=salon --no-align --tuples-only -c"
 
 echo -e "\n~~~~~ MY SALON ~~~~~"
