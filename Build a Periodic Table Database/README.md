@@ -6,7 +6,7 @@ This project is part of the requirements to earn my certification. It involves c
 
 ## Project Structure
 
-- `modify_database.sh`: Script to create the database, tables, and add columns.
+- `modify_database.sh`: Script to modify the database, tables, and add columns.
 - `periodic_table.sql`: SQL file to set up the database schema.
 - `element.sh`: Shell script to interact with users and retrieve information about chemical elements.
 
